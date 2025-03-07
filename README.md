@@ -77,7 +77,7 @@ plt.show()
 ```
 
 #### Results
-![Counts of job locations for Machine Learning roles in Egypt](home/leun/Python_data/job_locations.png)
+![Counts of job locations for Machine Learning roles in Egypt](home/leun/Python_data/Images/job_locations.png)
 
 #### Insights
 - Cairo dominates as the primary hub for ML roles, followed by a general "Egypt" category, likely representing remote or unspecified locations.
@@ -99,7 +99,7 @@ plt.show()
 ```
 
 #### Results
-![Counts of companies of Machine Learning in Egypt](home/leun/Python_data/output.png)
+![Counts of companies of Machine Learning in Egypt](home/leun/Python_data/Images/output.png)
 
 
 #### Insights
@@ -132,7 +132,7 @@ plt.show()
 ```
 
 #### Results
-![Job Benefits Pie Charts](home/leun/Python_data/pie_charts.png)
+![Job Benefits Pie Charts](home/leun/Python_data/Images/pie_charts.png)
 
 #### Insights
 - **Work from Home:** Only 2.8% of ML roles offer remote work, with 97.2% requiring on-site presence, indicating a preference for in-person collaboration.
@@ -167,7 +167,7 @@ plt.show()
 ```
 
 #### Results
-![Counts of Top skills in Job Postings](home/leun/Python_data/countsskills.png)
+![Counts of Top skills in Job Postings](home/leun/Python_data/Images/countsskills.png)
 
 #### Visualization of Skill Likelihood
 Next, I calculated the percentage of job postings requesting each skill to understand their likelihood:
@@ -197,7 +197,7 @@ plt.show()
 ```
 
 #### Results
-![Likelihood of skills Requested in Egypt Job Postings](home/leun/Python_data/likelihood.png)
+![Likelihood of skills Requested in Egypt Job Postings](home/leun/Python_data/Images/likelihood.png)
 
 #### Insights
 - **Data Analyst:** SQL (37%) and Excel (31%) are the most requested skills, followed by Python (29%), Tableau (24%), and Power BI (23%). Foundational tools dominate, reflecting the role’s focus on data manipulation and visualization.
