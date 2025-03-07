@@ -167,7 +167,7 @@ plt.show()
 ```
 
 #### Results
-![Counts of Top skills in Job Postings](home/leun/Python_data/Images/countsskills.png)
+![Counts of Top skills in Job Postings](Images/leun/Images/Images/countsskills.png)
 
 #### Visualization of Skill Likelihood
 Next, I calculated the percentage of job postings requesting each skill to understand their likelihood:
