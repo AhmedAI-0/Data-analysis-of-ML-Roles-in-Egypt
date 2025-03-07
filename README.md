@@ -1,6 +1,6 @@
 # Machine Learning Job Market Analysis in Egypt with Skill Demand Insights
 
-I am thrilled to share my comprehensive analysis of the Machine Learning (ML) job market in Egypt, a project fueled by my passion for uncovering opportunities in this exciting field. Using data sourced from [Luke Barousse's Python Course](https://lukebarousse.com/python), I explored key aspects of ML roles in Egypt, including job locations, leading employers, typical benefits, and the most in-demand skills for top data roles. Through Python scripting and advanced data visualization, I aim to provide actionable insights for professionals looking to navigate this dynamic market.
+I am thrilled to share my comprehensive analysis of the Machine Learning (ML) job market in Egypt, a project fueled by my passion for uncovering opportunities in this exciting field. Using data sourced from Luke Barousse's huggingface job data, I explored key aspects of ML roles in Egypt, including job locations, leading employers, typical benefits, and the most in-demand skills for top data roles. Through Python scripting and advanced data visualization, I aim to provide actionable insights for professionals looking to navigate this dynamic market.
 
 ## Objectives of the Analysis
 
