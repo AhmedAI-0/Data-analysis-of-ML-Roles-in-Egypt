@@ -77,7 +77,7 @@ plt.show()
 ```
 
 #### Results
-![Counts of job locations for Machine Learning roles in Egypt](Images/leun/Images/Images/job_locations.png
+![Counts of job locations for Machine Learning roles in Egypt](Images/leun/Images/Images/job_locations.png)
 
 #### Insights
 - Cairo dominates as the primary hub for ML roles, followed by a general "Egypt" category, likely representing remote or unspecified locations.
